@@ -1,0 +1,12 @@
+
+# python -m venv venv 
+# .\venv\Scripts\Activate.ps1 
+# pip install -r requirements.txt
+fastmcp>=0.4.0
+numpy
+requests
+python-dotenv
+PyMuPDF
+soundfile
+rarfile
+thefuzz
